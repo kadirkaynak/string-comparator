@@ -41,14 +41,14 @@ length sorted alphabetically; the different groups will be separated by '/'.
 
 Clone the project
 
-git clone https://github.com/kadirkaynak/string-comparator.git
 ```bash
+  git clone https://github.com/kadirkaynak/string-comparator.git
 ```
 
 Go to project directory
 
 ```bash
-   cd string-comparator
+  cd string-comparator
 ```
 
 Run the build.sh and start.sh script
